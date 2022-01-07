@@ -1,10 +1,10 @@
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
+	"ownername":"PAMOUR MAHARDHIKA",
+	"ownernumber":"6288980893843",
+	"botname":"ASISTEN DIKA",
 	"thumbnail":"./settings/haruka.jpg",
 	"limit": {
-		"free":20,
+		"free":30,
 		"premium":1000
 	},
 	"session_name":"./session.json"
