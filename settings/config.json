@@ -1,10 +1,10 @@
 {
 	"ownername":"PAMOUR MAHARDHIKA",
-	"ownernumber":"6288980893843",
+	"ownernumber":"6287832288238",
 	"botname":"ASISTEN DIKA",
 	"thumbnail":"./settings/haruka.jpg",
 	"limit": {
-		"free":30,
+		"free":15,
 		"premium":1000
 	},
 	"session_name":"./session.json"
